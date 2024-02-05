@@ -1,0 +1,51 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+header {
+    background-color: hsl(0, 68%, 87%);
+    color:black;
+    padding: 20px 0;
+}
+
+header img {
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+}
+
+header .header-content {
+    margin-left: 20px;
+}
+
+section {
+    margin: 40px 0;
+}
+
+section h2 {
+    color: #333;
+}
+
+footer {
+    background-color: #ecbaba;
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
+}
+h4{
+text-align: center;
+}
+.harsh{
+    text-align: center;
+}
+
+/* Add more styles for skills, projects, etc. */
